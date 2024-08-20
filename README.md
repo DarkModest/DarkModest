@@ -4,11 +4,11 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -26,16 +26,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      17 hrs 11 mins      ███████████████████████░░   93.42 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+C++                      16 hrs 10 mins      ███████████████████████░░   93.13 % 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-OI_codes                 16 hrs 45 mins      ███████████████████████░░   91.08 % 
-darkmodest.github.io     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-git repo                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+OI_codes                 15 hrs 38 mins      ███████████████████████░░   90.08 % 
+darkmodest.github.io     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+git repo                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 ```
 
 
- Last Updated on 19/08/2024 18:41:57 UTC
+ Last Updated on 20/08/2024 18:41:57 UTC
 <!--END_SECTION:waka-->
