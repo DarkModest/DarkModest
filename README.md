@@ -4,11 +4,11 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -26,16 +26,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 26 mins       ██████████████████████░░░   88.79 % 
-Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C++                      7 hrs 54 mins       ██████████████████████░░░   86.76 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-OI_codes                 9 hrs 9 mins        ██████████████████████░░░   86.09 % 
-darkmodest.github.io     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-git repo                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+OI_codes                 7 hrs 45 mins       █████████████████████░░░░   85.18 % 
+darkmodest.github.io     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+git repo                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 ```
 
 
- Last Updated on 22/08/2024 18:42:06 UTC
+ Last Updated on 23/08/2024 18:41:41 UTC
 <!--END_SECTION:waka-->
