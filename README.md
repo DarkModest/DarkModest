@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,16 +26,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 14 mins        █████████████████████████   99.53 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+C++                      1 hr 32 mins        █████████████████████████   99.79 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-OI_codes                 1 hr 15 mins        █████████████████████████   99.75 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+OI_codes                 1 hr 32 mins        █████████████████████████   99.79 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 
- Last Updated on 01/09/2024 18:41:56 UTC
+ Last Updated on 02/09/2024 18:42:39 UTC
 <!--END_SECTION:waka-->
