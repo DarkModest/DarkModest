@@ -14,8 +14,6 @@
 
 > 📦 17.7 kB Used in GitHub's Storage 
  > 
-> 🏆 186 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -35,5 +33,5 @@ OI_codes                 1 hr 16 mins        ███████████�
 ```
 
 
- Last Updated on 24/09/2024 18:45:36 UTC
+ Last Updated on 25/09/2024 18:45:10 UTC
 <!--END_SECTION:waka-->
