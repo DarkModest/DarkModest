@@ -14,6 +14,8 @@
 
 > 📦 17.7 kB Used in GitHub's Storage 
  > 
+> 🏆 186 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -26,13 +28,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      31 mins             █████████████████████░░░░   84.44 % 
-Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OI_codes                 37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2024 18:45:32 UTC
+ Last Updated on 04/10/2024 18:45:04 UTC
 <!--END_SECTION:waka-->
