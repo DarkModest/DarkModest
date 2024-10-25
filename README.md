@@ -8,13 +8,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 17.7 kB Used in GitHub's Storage 
- > 
-> 🏆 186 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,5 +34,5 @@ OI_codes                 1 hr 30 mins        ███████████�
 ```
 
 
- Last Updated on 24/10/2024 18:45:41 UTC
+ Last Updated on 25/10/2024 18:45:04 UTC
 <!--END_SECTION:waka-->
