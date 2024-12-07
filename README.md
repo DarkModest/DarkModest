@@ -8,11 +8,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 18.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 221 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,16 +28,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 15 mins       ██████████████████████░░░   89.04 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 12 mins             █████████████████████████   99.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🐱‍💻 Projects: 
-OI_codes                 2 hrs 19 mins       ███████████████████████░░   91.42 % 
-darkmodest.github.io     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+darkmodest.github.io     13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/12/2024 18:48:26 UTC
+ Last Updated on 07/12/2024 18:45:30 UTC
 <!--END_SECTION:waka-->
