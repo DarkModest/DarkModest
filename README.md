@@ -14,8 +14,6 @@
 
 > 📦 18.3 kB Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -37,5 +35,5 @@ darkmodest.github.io     2 mins              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 13/12/2024 18:48:03 UTC
+ Last Updated on 14/12/2024 18:45:14 UTC
 <!--END_SECTION:waka-->
