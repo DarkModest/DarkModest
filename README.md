@@ -14,6 +14,8 @@
 
 > 📦 18.3 kB Used in GitHub's Storage 
  > 
+> 🏆 222 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -26,12 +28,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     47 mins             █████████████████████████   100.00 % 
+Java                     42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-reignofnether            47 mins             █████████████████████████   100.00 % 
+reignofnether            42 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/12/2024 18:44:01 UTC
+ Last Updated on 24/12/2024 18:44:04 UTC
 <!--END_SECTION:waka-->
