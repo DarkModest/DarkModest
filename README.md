@@ -14,8 +14,6 @@
 
 > 📦 18.3 kB Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -35,5 +33,5 @@ reignofnether            42 mins             ███████████�
 ```
 
 
- Last Updated on 24/12/2024 18:44:04 UTC
+ Last Updated on 25/12/2024 18:43:29 UTC
 <!--END_SECTION:waka-->
