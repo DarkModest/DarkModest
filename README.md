@@ -14,8 +14,6 @@
 
 > 📦 18.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -28,15 +26,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-INI                      10 mins             █████████████████████░░░░   83.03 % 
-C++                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          10 mins             █████████████████████░░░░   83.03 % 
-OI_codes                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/01/2025 18:42:45 UTC
+ Last Updated on 12/01/2025 18:42:34 UTC
 <!--END_SECTION:waka-->
