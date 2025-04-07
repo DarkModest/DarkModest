@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,12 +26,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+VB.NET                   8 mins              ███████████████████████░░   91.50 % 
+Git Config               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+XAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PCL2-CE                  9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2025 18:44:28 UTC
+ Last Updated on 07/04/2025 18:47:17 UTC
 <!--END_SECTION:waka-->
