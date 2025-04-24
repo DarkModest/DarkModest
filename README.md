@@ -4,11 +4,11 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-178.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -16,7 +16,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -26,17 +26,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████░░░░░░░░░░░░   53.10 % 
-Git                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Groovy                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Groovy                   39 mins             ████████████░░░░░░░░░░░░░   49.44 % 
+Markdown                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Dart                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Git                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🐱‍💻 Projects: 
-darkmodest.github.io     18 mins             ██████████████████░░░░░░░   70.01 % 
-pilipala                 7 mins              ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+pilipala                 1 hr 1 min          ███████████████████░░░░░░   77.21 % 
+darkmodest.github.io     18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
 ```
 
 
- Last Updated on 23/04/2025 18:50:49 UTC
+ Last Updated on 24/04/2025 18:48:48 UTC
 <!--END_SECTION:waka-->
