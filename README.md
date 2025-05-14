@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,8 +13,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 19.1 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,12 +26,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 32 mins        █████████████████████████   100.00 % 
+Markdown                 2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Desktop                  1 hr 32 mins        █████████████████████████   100.00 % 
+Desktop                  1 hr 39 mins        ██████████████████░░░░░░░   73.27 % 
+Unknown Project          36 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
 ```
 
 
- Last Updated on 13/05/2025 18:49:30 UTC
+ Last Updated on 14/05/2025 18:48:50 UTC
 <!--END_SECTION:waka-->
