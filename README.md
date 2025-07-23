@@ -4,15 +4,15 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-178.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 19.1 kB Used in GitHub's Storage 
+> 📦 19.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,12 +26,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     2 mins              █████████████████████████   100.00 % 
+Python                   2 hrs               ████████████████████████░   96.53 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
+bilibili_live_stream_code2 hrs 2 mins        █████████████████████████   98.15 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
- Last Updated on 22/07/2025 18:55:44 UTC
+ Last Updated on 23/07/2025 18:55:01 UTC
 <!--END_SECTION:waka-->
