@@ -8,13 +8,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-181.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 18.8 kB Used in GitHub's Storage 
+> 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
+> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,5 +35,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/11/2025 18:52:46 UTC
+ Last Updated on 19/11/2025 18:49:44 UTC
 <!--END_SECTION:waka-->
