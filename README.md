@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,12 +28,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+INI                      6 mins              █████████████████████░░░░   85.26 % 
+Text                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bilibili_live_stream_code6 mins              ██████████████████████░░░   86.83 % 
+Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 ```
 
 
- Last Updated on 20/12/2025 18:48:16 UTC
+ Last Updated on 21/12/2025 18:49:59 UTC
 <!--END_SECTION:waka-->
