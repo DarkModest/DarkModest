@@ -14,11 +14,11 @@
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -28,12 +28,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 39 mins        ███████████████████████░░   92.33 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ponytail                 1 hr 39 mins        ███████████████████████░░   92.33 % 
+Dark_Modest              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
 
- Last Updated on 29/06/2026 20:26:22 UTC
+ Last Updated on 30/06/2026 20:30:41 UTC
 <!--END_SECTION:waka-->
