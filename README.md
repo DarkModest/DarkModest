@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -14,11 +14,11 @@
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -28,14 +28,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 39 mins        ███████████████████████░░   92.33 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Markdown                 2 hrs               ██████████████░░░░░░░░░░░   55.93 % 
+Python                   48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+QML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🐱‍💻 Projects: 
-ponytail                 1 hr 39 mins        ███████████████████████░░   92.33 % 
-Dark_Modest              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+ponytail                 1 hr 45 mins        ████████████░░░░░░░░░░░░░   49.24 % 
+Class-Widgets-2          1 hr 40 mins        ████████████░░░░░░░░░░░░░   46.93 % 
+Dark_Modest              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 
 
- Last Updated on 30/06/2026 20:30:41 UTC
+ Last Updated on 01/07/2026 20:26:01 UTC
 <!--END_SECTION:waka-->
