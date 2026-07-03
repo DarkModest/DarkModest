@@ -8,17 +8,17 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149.88%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149.96%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 21.1 kB Used in GitHub's Storage 
+> 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 10 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -28,18 +28,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs               ██████████████░░░░░░░░░░░   55.93 % 
-Python                   48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-QML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+TypeScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.55 % 
+Markdown                 2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Swift                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🐱‍💻 Projects: 
-ponytail                 1 hr 45 mins        ████████████░░░░░░░░░░░░░   49.24 % 
-Class-Widgets-2          1 hr 40 mins        ████████████░░░░░░░░░░░░░   46.93 % 
-Dark_Modest              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+tutti                    2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
+ponytail                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Class-Widgets-2          1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+ping-island              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+darkmodest.github.io     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 
 
- Last Updated on 02/07/2026 20:04:02 UTC
+ Last Updated on 03/07/2026 19:59:07 UTC
 <!--END_SECTION:waka-->
