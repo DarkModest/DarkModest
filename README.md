@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,20 +28,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-TypeScript               2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-Swift                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-PowerShell               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+C#                       2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+TypeScript               2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+Swift                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+PowerShell               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 🐱‍💻 Projects: 
-MobiFlight-Connector     3 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
-tutti                    2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-Administrator            1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-ping-island              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+MobiFlight-Connector     3 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.96 % 
+tutti                    2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Administrator            1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+ping-island              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
 
- Last Updated on 08/07/2026 20:09:04 UTC
+ Last Updated on 09/07/2026 20:26:54 UTC
 <!--END_SECTION:waka-->
