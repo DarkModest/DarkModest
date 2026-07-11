@@ -14,7 +14,7 @@
 
 > 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2026
+> 🏆 13 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,20 +28,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       2 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.45 % 
-JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-PowerShell               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Lua                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+C#                       5 hrs 20 mins       ██████████████░░░░░░░░░░░   55.07 % 
+JSON                     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+PowerShell               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Lua                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🐱‍💻 Projects: 
-MobiFlight-Connector     3 hrs 52 mins       █████████████████░░░░░░░░   68.60 % 
-Administrator            1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-ping-island              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Dark_Modest              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+MobiFlight-Connector     8 hrs               █████████████████████░░░░   82.56 % 
+Administrator            1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Dark_Modest              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+global                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 
- Last Updated on 10/07/2026 20:04:49 UTC
+ Last Updated on 11/07/2026 19:47:02 UTC
 <!--END_SECTION:waka-->
