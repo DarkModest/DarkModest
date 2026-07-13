@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -14,7 +14,7 @@
 
 > 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,17 +28,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       11 hrs 29 mins      ███████████████████░░░░░░   77.32 % 
-JSON                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-TOML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+C#                       11 hrs 29 mins      ████████████████████░░░░░   81.52 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+PowerShell               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🐱‍💻 Projects: 
-MobiFlight-Connector     13 hrs 58 mins      ████████████████████████░   94.08 % 
-Administrator            52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+MobiFlight-Connector     13 hrs 39 mins      ████████████████████████░   96.96 % 
+Administrator            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 
- Last Updated on 12/07/2026 19:45:38 UTC
+ Last Updated on 13/07/2026 20:04:14 UTC
 <!--END_SECTION:waka-->
