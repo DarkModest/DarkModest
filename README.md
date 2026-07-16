@@ -28,18 +28,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       11 hrs 29 mins      ████████████████████░░░░░   81.29 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-PowerShell               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+C#                       8 hrs 54 mins       ████████████████████░░░░░   81.44 % 
+JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Git Config               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-MobiFlight-Connector     13 hrs 39 mins      ████████████████████████░   96.69 % 
-Administrator            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-darkmodest.github.io     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+MobiFlight-Connector     10 hrs 45 mins      █████████████████████████   98.39 % 
+Administrator            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+darkmodest.github.io     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 
- Last Updated on 15/07/2026 19:50:41 UTC
+ Last Updated on 16/07/2026 19:46:46 UTC
 <!--END_SECTION:waka-->
