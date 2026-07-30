@@ -30,19 +30,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     5 mins              ██████████████░░░░░░░░░░░   54.73 % 
-Other                    3 mins              ████████░░░░░░░░░░░░░░░░░   30.27 % 
-Python                   1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Python                   42 mins             ██████████████████░░░░░░░   72.21 % 
+Text                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              █████████████████░░░░░░░░   69.73 % 
-PiliPlus                 3 mins              ████████░░░░░░░░░░░░░░░░░   30.27 % 
+astrbot_plugin_jm_downloa48 mins             ████████████████████░░░░░   81.94 % 
+Unknown Project          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+PiliPlus                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (45.27%)
+⏱ AI Coding Time: 38 mins (65.36%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -50,17 +52,17 @@ PiliPlus                 3 mins              ████████░░░�
 
 💵 $0.06 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 12 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 53 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 19:57:59 UTC
+ Last Updated on 30/07/2026 20:08:36 UTC
 <!--END_SECTION:waka-->
