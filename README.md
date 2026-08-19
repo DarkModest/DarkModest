@@ -6,17 +6,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.55%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.85%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2026
+> 🏆 38 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,29 +30,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   32.72 % 
-Git Config               7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-TypeScript               7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Markdown                 3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Other                    9 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+Git Config               7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+TypeScript               7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Markdown                 3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🐱‍💻 Projects: 
-Carify                   23 hrs 52 mins      ██████████████████░░░░░░░   71.32 % 
-Unknown Project          9 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+Carify                   23 hrs 52 mins      ███████████████████░░░░░░   74.32 % 
+Unknown Project          8 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 3 mins (95.76%)
+⏱ AI Coding Time: 30 hrs 42 mins (95.58%)
 
 ✍️ 0 lines written by AI, 19 lines written by hand (0.0% AI-written)
 
-🔤 887,541,560 Input Tokens, 6,250,070 Output Tokens
+🔤 880,949,071 Input Tokens, 6,206,156 Output Tokens
 
-💵 $5055.16 Estimated AI Cost This Week
+💵 $5048.22 Estimated AI Cost This Week
 
-🧠 339 AI Sessions, 0 AI Prompts
+🧠 325 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sensenova                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -68,5 +68,5 @@ Grok                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/08/2026 19:16:37 UTC
+ Last Updated on 19/08/2026 19:11:46 UTC
 <!--END_SECTION:waka-->
