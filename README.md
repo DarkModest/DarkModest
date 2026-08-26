@@ -4,19 +4,19 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-658.80%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661.04%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 341 Contributions in the Year 2026
+> 🏆 344 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,45 +30,44 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 32 mins      ███████████████░░░░░░░░░░   58.47 % 
-TypeScript               2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-JSON                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Python                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    11 hrs 3 mins       █████████████░░░░░░░░░░░░   53.34 % 
+TypeScript               3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Python                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+JSON                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🐱‍💻 Projects: 
-Carify                   11 hrs 54 mins      ██████████████░░░░░░░░░░░   55.54 % 
-Unknown Project          8 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
-app                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-darkmodest.github.io     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-lingji-cut               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Carify                   12 hrs 45 mins      ███████████████░░░░░░░░░░   61.56 % 
+Unknown Project          7 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.35 % 
+app                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+1d0df7bc-70b3-4a77-a465-71 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 42 mins (87.23%)
+⏱ AI Coding Time: 18 hrs 18 mins (88.31%)
 
-✍️ 1,395 lines written by AI, 76 lines written by hand (94.83% AI-written)
+✍️ 0 lines written by AI, 307 lines written by hand (0.0% AI-written)
 
-🔤 582,077,014 Input Tokens, 5,149,015 Output Tokens
+🔤 599,902,022 Input Tokens, 5,061,397 Output Tokens
 
-💵 $3600.76 Estimated AI Cost This Week
+💵 $3497.76 Estimated AI Cost This Week
 
-🧠 196 AI Sessions, 33 AI Prompts
+🧠 206 AI Sessions, 18 AI Prompts
 
-Spark                    1,414 lines         █████████████████████████   100.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.83% of written lines came from AI
-📝 Concise Prompter — average 268 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 20,985 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 16.43% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 19:17:38 UTC
+ Last Updated on 26/08/2026 20:50:02 UTC
 <!--END_SECTION:waka-->
