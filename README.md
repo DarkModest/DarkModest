@@ -4,9 +4,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarkModest&include_all_commits=true&count_private-true&custom_title=Dark_Modest'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=false&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=463467"><br>
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,30 +30,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.73 % 
-JSON                     2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-TypeScript               2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Python                   2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Other                    7 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.40 % 
+JSON                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+TypeScript               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Python                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🐱‍💻 Projects: 
-Carify                   10 hrs 32 mins      ██████████████░░░░░░░░░░░   57.28 % 
-Unknown Project          7 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
-1d0df7bc-70b3-4a77-a465-71 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Carify                   8 hrs 13 mins       █████████████░░░░░░░░░░░░   53.88 % 
+Unknown Project          7 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.97 % 
+1d0df7bc-70b3-4a77-a465-71 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 24 mins (89.16%)
+⏱ AI Coding Time: 13 hrs 30 mins (88.49%)
 
-✍️ 0 lines written by AI, 298 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 297 lines written by hand (0.0% AI-written)
 
-🔤 604,182,725 Input Tokens, 4,863,052 Output Tokens
+🔤 491,835,613 Input Tokens, 4,063,895 Output Tokens
 
-💵 $3562.10 Estimated AI Cost This Week
+💵 $2895.11 Estimated AI Cost This Week
 
-🧠 180 AI Sessions, 9 AI Prompts
+🧠 152 AI Sessions, 9 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -65,5 +65,5 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/08/2026 02:25:29 UTC
+ Last Updated on 29/08/2026 02:01:30 UTC
 <!--END_SECTION:waka-->
