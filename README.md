@@ -30,30 +30,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.40 % 
-JSON                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-TypeScript               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Python                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Other                    2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
+Python                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+TypeScript               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+JSON                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🐱‍💻 Projects: 
-Carify                   8 hrs 13 mins       █████████████░░░░░░░░░░░░   53.88 % 
-Unknown Project          7 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.97 % 
-1d0df7bc-70b3-4a77-a465-71 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Carify                   3 hrs 54 mins       ███████████████░░░░░░░░░░   58.86 % 
+Unknown Project          2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
+1d0df7bc-70b3-4a77-a465-71 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 30 mins (88.49%)
+⏱ AI Coding Time: 5 hrs 47 mins (87.08%)
 
-✍️ 0 lines written by AI, 297 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 294 lines written by hand (0.0% AI-written)
 
-🔤 491,835,613 Input Tokens, 4,063,895 Output Tokens
+🔤 173,872,590 Input Tokens, 1,627,040 Output Tokens
 
-💵 $2895.11 Estimated AI Cost This Week
+💵 $1019.13 Estimated AI Cost This Week
 
-🧠 152 AI Sessions, 9 AI Prompts
+🧠 68 AI Sessions, 9 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -65,5 +65,5 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/08/2026 02:01:30 UTC
+ Last Updated on 29/08/2026 21:14:07 UTC
 <!--END_SECTION:waka-->
