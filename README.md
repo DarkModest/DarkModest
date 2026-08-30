@@ -10,7 +10,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480.48%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480.93%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -30,30 +30,30 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
-Python                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-TypeScript               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-JSON                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Other                    4 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.05 % 
+TypeScript               2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🐱‍💻 Projects: 
-Carify                   3 hrs 54 mins       ███████████████░░░░░░░░░░   58.86 % 
-Unknown Project          2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
-1d0df7bc-70b3-4a77-a465-71 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Carify                   4 hrs 20 mins       █████████████░░░░░░░░░░░░   51.44 % 
+Unknown Project          4 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.29 % 
+1d0df7bc-70b3-4a77-a465-71 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 47 mins (87.08%)
+⏱ AI Coding Time: 7 hrs 54 mins (93.67%)
 
 ✍️ 0 lines written by AI, 294 lines written by hand (0.0% AI-written)
 
-🔤 173,872,590 Input Tokens, 1,627,040 Output Tokens
+🔤 239,979,171 Input Tokens, 2,126,463 Output Tokens
 
-💵 $1019.13 Estimated AI Cost This Week
+💵 $1406.43 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 9 AI Prompts
+🧠 81 AI Sessions, 9 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -65,5 +65,5 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/08/2026 21:14:07 UTC
+ Last Updated on 30/08/2026 21:34:49 UTC
 <!--END_SECTION:waka-->
