@@ -6,17 +6,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511.36%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-438.19%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 453 Contributions in the Year 2026
+> 🏆 496 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,27 +30,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 37 mins      ██████████████████░░░░░░░   73.00 % 
-JSON                     2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-TypeScript               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Other                    12 hrs 38 mins      ██████████████████░░░░░░░   70.00 % 
+Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+JSON                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+TypeScript               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 
 🐱‍💻 Projects: 
-Unknown Project          11 hrs 37 mins      ██████████████████░░░░░░░   73.00 % 
-Carify                   4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+Unknown Project          12 hrs 38 mins      ██████████████████░░░░░░░   70.00 % 
+Carify                   5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 46 mins (99.13%)
+⏱ AI Coding Time: 17 hrs 49 mins (98.66%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,236,291,433 Input Tokens, 4,719,975 Output Tokens
+🔤 1,460,516,129 Input Tokens, 5,023,086 Output Tokens
 
-💵 $7390.65 Estimated AI Cost This Week
+💵 $8716.96 Estimated AI Cost This Week
 
-🧠 135 AI Sessions, 0 AI Prompts
+🧠 152 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -62,5 +63,5 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/09/2026 21:23:36 UTC
+ Last Updated on 03/09/2026 21:25:22 UTC
 <!--END_SECTION:waka-->
