@@ -10,7 +10,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-832.53%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-665.98%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -30,39 +30,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 18 mins      █████████████████░░░░░░░░   69.42 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-JSON                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Other                    13 hrs 14 mins      █████████████████░░░░░░░░   69.53 % 
+JSON                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Markdown                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 48 mins      █████████████████░░░░░░░░   66.38 % 
-Carify                   5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
+Unknown Project          13 hrs 1 min        █████████████████░░░░░░░░   68.43 % 
+Carify                   6 hrs               ████████░░░░░░░░░░░░░░░░░   31.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 1 min (98.38%)
+⏱ AI Coding Time: 18 hrs 38 mins (97.92%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 1,239,371,628 Input Tokens, 3,904,301 Output Tokens
+🔤 984,562,166 Input Tokens, 4,910,568 Output Tokens
 
-💵 $7388.76 Estimated AI Cost This Week
+💵 $5871.51 Estimated AI Cost This Week
 
-🧠 131 AI Sessions, 0 AI Prompts
+🧠 164 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 21:52:53 UTC
+ Last Updated on 08/09/2026 21:30:20 UTC
 <!--END_SECTION:waka-->
