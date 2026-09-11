@@ -16,7 +16,7 @@
 
 > 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2026
+> 🏆 44 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,29 +30,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 42 mins      ███████████████████░░░░░░   74.83 % 
-JSON                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other                    8 hrs 15 mins       ████████████████████░░░░░   80.95 % 
+Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
-Unknown Project          11 hrs 29 mins      ██████████████████░░░░░░░   73.49 % 
-Carify                   4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+Unknown Project          8 hrs 15 mins       ████████████████████░░░░░   80.95 % 
+Carify                   1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 20 mins (98.12%)
+⏱ AI Coding Time: 9 hrs 59 mins (97.9%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 613,479,676 Input Tokens, 4,459,868 Output Tokens
+🔤 387,749,823 Input Tokens, 2,817,263 Output Tokens
 
-💵 $3678.88 Estimated AI Cost This Week
+💵 $2323.61 Estimated AI Cost This Week
 
-🧠 141 AI Sessions, 0 AI Prompts
+🧠 89 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -64,5 +63,5 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/09/2026 21:16:55 UTC
+ Last Updated on 11/09/2026 21:20:22 UTC
 <!--END_SECTION:waka-->
