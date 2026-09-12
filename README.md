@@ -30,28 +30,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 15 mins       ████████████████████░░░░░   80.95 % 
-Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Other                    5 hrs 30 mins       ████████████████████░░░░░   80.28 % 
+Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 15 mins       ████████████████████░░░░░   80.95 % 
-Carify                   1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Unknown Project          5 hrs 30 mins       ████████████████████░░░░░   80.28 % 
+Carify                   1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 59 mins (97.9%)
+⏱ AI Coding Time: 6 hrs 43 mins (98.08%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 387,749,823 Input Tokens, 2,817,263 Output Tokens
+🔤 281,770,846 Input Tokens, 1,806,532 Output Tokens
 
-💵 $2323.61 Estimated AI Cost This Week
+💵 $1688.74 Estimated AI Cost This Week
 
-🧠 89 AI Sessions, 0 AI Prompts
+🧠 56 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -63,5 +63,5 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/09/2026 21:20:22 UTC
+ Last Updated on 12/09/2026 20:58:53 UTC
 <!--END_SECTION:waka-->
