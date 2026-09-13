@@ -30,38 +30,36 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 30 mins       ████████████████████░░░░░   80.28 % 
-Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Other                    5 hrs 40 mins       ████████████████████████░   94.43 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 30 mins       ████████████████████░░░░░   80.28 % 
-Carify                   1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Unknown Project          5 hrs 40 mins       ████████████████████████░   94.43 % 
+Carify                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 43 mins (98.08%)
+⏱ AI Coding Time: 6 hrs (100.0%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 281,770,846 Input Tokens, 1,806,532 Output Tokens
+🔤 260,673,373 Input Tokens, 1,594,470 Output Tokens
 
-💵 $1688.74 Estimated AI Cost This Week
+💵 $1563.85 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 0 AI Prompts
+🧠 51 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 20:58:53 UTC
+ Last Updated on 13/09/2026 21:13:18 UTC
 <!--END_SECTION:waka-->
