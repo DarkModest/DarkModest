@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-676.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-693.18%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -30,28 +30,29 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 40 mins       ████████████████████████░   94.43 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Other                    6 hrs 16 mins       ████████████████████████░   94.95 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 40 mins       ████████████████████████░   94.43 % 
-Carify                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Unknown Project          6 hrs 16 mins       ████████████████████████░   94.95 % 
+Carify                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs (100.0%)
+⏱ AI Coding Time: 6 hrs 36 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 260,673,373 Input Tokens, 1,594,470 Output Tokens
+🔤 296,630,531 Input Tokens, 1,874,334 Output Tokens
 
-💵 $1563.85 Estimated AI Cost This Week
+💵 $1781.76 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 0 AI Prompts
+🧠 59 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
@@ -61,5 +62,5 @@ ZCode                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/09/2026 21:13:18 UTC
+ Last Updated on 14/09/2026 22:08:13 UTC
 <!--END_SECTION:waka-->
