@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,26 +30,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 16 mins       ████████████████████████░   94.95 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Other                    5 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 16 mins       ████████████████████████░   94.95 % 
-Carify                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Unknown Project          5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 36 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 44 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 296,630,531 Input Tokens, 1,874,334 Output Tokens
+🔤 201,640,342 Input Tokens, 1,422,119 Output Tokens
 
-💵 $1781.76 Estimated AI Cost This Week
+💵 $1165.47 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 0 AI Prompts
+🧠 48 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -62,5 +60,5 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/09/2026 22:08:13 UTC
+ Last Updated on 15/09/2026 21:50:04 UTC
 <!--END_SECTION:waka-->
