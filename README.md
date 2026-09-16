@@ -30,35 +30,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 10 mins       █████████████████████████   100.00 % 
+Other                    3 hrs 19 mins       ████████████████████████░   97.74 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 10 mins       █████████████████████████   100.00 % 
+Unknown Project          3 hrs 14 mins       ████████████████████████░   94.87 % 
+7ma                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+NJUPT_LabLearning        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 44 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 19 mins (97.74%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 201,640,342 Input Tokens, 1,422,119 Output Tokens
+🔤 191,584,944 Input Tokens, 1,559,866 Output Tokens
 
-💵 $1165.47 Estimated AI Cost This Week
+💵 $1155.34 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 0 AI Prompts
+🧠 47 AI Sessions, 1 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 6 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 21:50:04 UTC
+ Last Updated on 16/09/2026 21:45:47 UTC
 <!--END_SECTION:waka-->
