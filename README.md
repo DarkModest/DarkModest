@@ -10,13 +10,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-702.06%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-702.08%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 21.2 kB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2026
+> 🏆 685 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,38 +30,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 19 mins       ████████████████████████░   97.74 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Other                    2 hrs 29 mins       ████████████████████████░   97.00 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 14 mins       ████████████████████████░   94.87 % 
-7ma                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-NJUPT_LabLearning        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Unknown Project          2 hrs 29 mins       ████████████████████████░   97.00 % 
+NJUPT_LabLearning        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 19 mins (97.74%)
+⏱ AI Coding Time: 2 hrs 29 mins (97.0%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 188,851,625 Input Tokens, 1,549,779 Output Tokens
+🔤 183,206,542 Input Tokens, 1,417,668 Output Tokens
 
-💵 $1139.26 Estimated AI Cost This Week
+💵 $1105.09 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 1 AI Prompts
+🧠 39 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 6 characters per prompt
+📝 Concise Prompter — average 0 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 21:49:12 UTC
+ Last Updated on 18/09/2026 21:19:36 UTC
 <!--END_SECTION:waka-->
