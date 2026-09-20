@@ -8,7 +8,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-702.09%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -30,26 +30,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 29 mins       ████████████████████████░   97.00 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Other                    2 hrs 10 mins       ████████████████████████░   96.59 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 29 mins       ████████████████████████░   97.00 % 
-NJUPT_LabLearning        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Unknown Project          2 hrs 10 mins       ████████████████████████░   96.59 % 
+NJUPT_LabLearning        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 29 mins (97.0%)
+⏱ AI Coding Time: 2 hrs 10 mins (96.59%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 183,022,075 Input Tokens, 1,407,304 Output Tokens
+🔤 154,311,760 Input Tokens, 1,187,700 Output Tokens
 
-💵 $1103.86 Estimated AI Cost This Week
+💵 $932.37 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 0 AI Prompts
+🧠 26 AI Sessions, 0 AI Prompts
 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -62,5 +62,5 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/09/2026 21:06:30 UTC
+ Last Updated on 20/09/2026 21:10:39 UTC
 <!--END_SECTION:waka-->
